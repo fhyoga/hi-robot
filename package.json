@@ -1,6 +1,9 @@
 {
-  "name": "hi",
-  "version": "0.1.0",
+  "name": "hizz",
+  "version": "0.1.1",
+  "bin": {
+    "hi": "./bin/hi.js"
+  },
   "description": "chat with a robot",
   "main": "hi.js",
   "scripts": {
