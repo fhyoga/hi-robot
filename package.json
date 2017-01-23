@@ -1,0 +1,23 @@
+{
+  "name": "hi",
+  "version": "0.1.0",
+  "description": "chat with a robot",
+  "main": "hi.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strongfanfan/hi-robot.git"
+  },
+  "keywords": [
+    "chat",
+    "robot"
+  ],
+  "author": "strongfanfan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strongfanfan/hi-robot/issues"
+  },
+  "homepage": "https://github.com/strongfanfan/hi-robot#readme"
+}
