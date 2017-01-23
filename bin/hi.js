@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var http=require('http');
 var urlencode=require('./urlencode');
 var argv=process.argv.slice(2);
